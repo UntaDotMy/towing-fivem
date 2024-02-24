@@ -12,4 +12,6 @@ Anyway, enough backstory for the origin of this script.
 
 Here’s a quick and nasty showcase of the script: https://youtu.be/y_QYMiO0vJ8
 
+ORIGINAL AUTHOR AND SCRIPT : https://github.com/SupremeCatOG/towing
+
 Also, don’t use this code to make yet another paid version of this :)
